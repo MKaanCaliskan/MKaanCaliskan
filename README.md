@@ -2,7 +2,13 @@
 
 - I'm Mustafa Kaan Calışkan. I decided to change my career in accordance with the radical decision I made. (This decision is like deciding to quit my job and become a traveller. I am trying to get to discover a digital world, I enjoy every new technology I learn, like a traveler when he sees a new country :v:) I am currently training to be a full stack developer and improving myself I make an effort for it.
 
-- 🌱 I’m currently learning c#, Sql Server , html , Css , JavaScript...
+- 🌱 I’m currently learning C#, Sql Server , Html , Css , JavaScript...
+
+## 📫 How to Reach Me
+
+
+[![Linkedin Badge](https://img.shields.io/badge/MKaanCaliskan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafakaancaliskan1995/)
+
 <!--
 **MKaanCaliskan/MKaanCaliskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
