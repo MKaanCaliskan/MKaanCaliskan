@@ -5,12 +5,12 @@
 
 - 🌱 I’m currently learning C#, Sql Server , Html , Css , JavaScript...
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 
 [![Linkedin Badge](https://img.shields.io/badge/MKaanCaliskan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafakaancaliskan1995/)
 
-## 📌 Top Languages
+##  Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKaanCaliskan&layout=compact&theme=react)](https://github.com/MKaanCaliskan/github-readme-stats)
 <!--
