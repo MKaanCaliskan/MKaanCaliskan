@@ -1,4 +1,4 @@
-### Hİ EVERYONE👋
+### HI EVERYONE👋
 
 -I'm Mustafa Kaan Calışkan. I decided to change my career in accordance with the radical decision I made.. (This decision is like deciding to quit my job and become a traveller. I am trying to get to discover a digital world, I enjoy every new technology I learn, like a traveler when he sees a new country) I am currently training to be a full stack developer and improving myself I make an effort for it.
 
