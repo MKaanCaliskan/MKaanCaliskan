@@ -10,6 +10,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/MKaanCaliskan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafakaancaliskan1995/)
 
+## 📌 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKaanCaliskan&layout=compact&theme=react)](https://github.com/MKaanCaliskan/github-readme-stats)
 <!--
 **MKaanCaliskan/MKaanCaliskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
